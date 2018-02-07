@@ -1,3 +1,5 @@
+! {{{1 Color palette
+
 #define MAWARU_BG #F9F9FA
 #define MAWARU_FG #3E3E3E
 
@@ -25,4 +27,26 @@
 #define MAWARU_7  #C3C3C3
 #define MAWARU_15 #D7D8D8
 
-! vim: ft=xdefaults
+! {{{1 Color assignment
+
+*background: MAWARU_BG
+*foreground: MAWARU_FG
+
+*color0: MAWARU_0
+*color1: MAWARU_1
+*color2: MAWARU_2
+*color3: MAWARU_3
+*color4: MAWARU_4
+*color5: MAWARU_5
+*color6: MAWARU_6
+*color7: MAWARU_7
+*color8: MAWARU_8
+*color9: MAWARU_9
+*color10: MAWARU_10
+*color11: MAWARU_11
+*color12: MAWARU_12
+*color13: MAWARU_13
+*color14: MAWARU_14
+*color15: MAWARU_15
+
+! vim: fdm=marker
