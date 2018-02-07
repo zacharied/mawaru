@@ -1,0 +1,28 @@
+#define MAWARU_BG #F9F9FA
+#define MAWARU_FG #3E3E3E
+
+#define MAWARU_0  #0E0E0E
+#define MAWARU_8  #0E0E0E
+
+#define MAWARU_1  #610309
+#define MAWARU_9  #C8173D
+
+#define MAWARU_2  #558F32
+#define MAWARU_10 #93C678
+
+#define MAWARU_3  #E7870C
+#define MAWARU_11 #F5BD08
+
+#define MAWARU_4  #2569A6
+#define MAWARU_12 #B5C6DE
+
+#define MAWARU_5  #B72571
+#define MAWARU_13 #EA81AB
+
+#define MAWARU_6  #4A437E
+#define MAWARU_14 #97F6E6
+
+#define MAWARU_7  #C3C3C3
+#define MAWARU_15 #D7D8D8
+
+! vim: ft=xdefaults
