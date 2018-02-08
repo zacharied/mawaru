@@ -3,6 +3,9 @@
 A terminal colorscheme inspired by the art of [Mawaru
 Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum).
 
+This colorscheme is in a **beta** state. Its colors are subject to change at
+any time.
+
 ## Installation
 
 Currently, this repository only has an Xresources file. Download the file, then
